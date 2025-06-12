@@ -14,9 +14,9 @@
 		"fca-umaru-v1",
 		"fca-umaru-v2"
 	],
-	"botname": "Umaru",
-	"prefix": "/",
-	"nickname": "》 {prefix} 《 ❃ ➠ {botname}",
+	"botname": "Kryon Baka",
+	"prefix": "#",
+	"nickname": "🅁🄴🄽🄹🄸 🄱🄾🅃",
 	"adminbot": [
 		"100052086120278"
 	],
@@ -50,10 +50,10 @@
 		"nsfw": false,
 		"UsersPhoto": false
 	},
-	"Owner": "John Lester",
+	"Owner": "Renji Starfall",
 	"Age": "16",
 	"Gender": "Male",
-	"Facebook": "https://www.facebook.com/rootalocalhost.dev",
+	"Facebook": "https://www.facebook.com/profile.php?id=61557674704673",
 	"cmd_not_found": "Command {{1}} not found\nUse {{2}} to display all commands is that {{3}} or not?",
 	"permission_1": "⚠️ You don't have permission to use \"{{1}}\". Only group admin can use this command.",
 	"permission_2": "⚠️ You don't have permission to use \"{{1}}\". Only system admin can use this command.",
@@ -78,7 +78,7 @@
 		"PendingMsg": "{botname} Connected Successfully!\nUse {prefix}help for more info :>",
 		"AutoBioStatus": false,
 		"AutoBioStatusSetPerHour": "1",
-		"BioStatus": "Prefix: {prefix}\nmade by: https://fb.com/rootalocalhost.dev\n\n🟢 Active: {time}",
+		"BioStatus": "",
 		"AutoLeave": false
 	},
 	"FcaOptions": {
